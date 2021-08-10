@@ -1,0 +1,6 @@
+# Organix公告- 由于系统接下来的跨链计划，Organix合成资产协议将暂停EOS链的系统
+
+Organix基金会计划将Organix合成资产协议跨链至币安智能链BSC，为后续的跨链运营做准备，基金会将于新加坡时间2021年08月11日20:00暂停EOS链的Organix Protocol合成资产系统，届时将冻结所有合成资产的价格，仅保留销毁OUSD赎回OGX的功能以及OGX-EOS和OUSD-USDT交易对的做市奖励，请用户在此之前做好相应调整。
+
+Organix基金会
+

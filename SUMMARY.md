@@ -34,6 +34,7 @@
   * [2020/11/18](xiang-mu-jin-zhan/xiang-mu-xin-wen/2020-11-18.md)
   * [2020/11/16](xiang-mu-jin-zhan/xiang-mu-xin-wen/2020-11-16.md)
   * [Organix基金会宣布已与跨链聚合闪兑平台Xswap达成战略合作](xiang-mu-jin-zhan/xiang-mu-xin-wen/organix-ji-jin-hui-xuan-bu-yi-yu-kua-lian-ju-he-shan-dui-ping-tai-xswap-da-cheng-zhan-lve-he-zuo.md)
+  * [Organix公告- 由于系统接下来的跨链计划，Organix合成资产协议将暂停EOS链的系统](xiang-mu-jin-zhan/xiang-mu-xin-wen/organix-gong-gao-you-yu-xi-tong-jie-xia-lai-de-kua-lian-ji-hua-organix-he-cheng-zi-chan-xie-yi-jiang.md)
 * [项目月报](xiang-mu-jin-zhan/xiang-mu-yue-bao/README.md)
   * [Organix项目月报2020年10月](xiang-mu-jin-zhan/xiang-mu-yue-bao/organix-xiang-mu-yue-bao-102020.md)
   * [Organix项目月报2020年11月](xiang-mu-jin-zhan/xiang-mu-yue-bao/organix-xiang-mu-yue-bao-2020-nian-11-yue.md)
